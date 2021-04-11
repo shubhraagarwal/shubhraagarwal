@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhraagarwal&theme=dark" />
 ![Shubhra's github stats](https://github-readme-stats.vercel.app/api?username=shubhraagarwal&show_icons=true&theme=radical&count_private=true)</br>
 <!--
 **shubhraagarwal/shubhraagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
