@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋,
+My name's Shubhra Agarwal, currently a second year student pursuing B.Tech from SRM Institute of Science and Technology in the field of Computer Science. Currently, I am a MERN stack web and app developer enhancing my skiils using Redux and Typescript. 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhraagarwal&theme=dark" /></br>
 ![Shubhra's github stats](https://github-readme-stats.vercel.app/api?username=shubhraagarwal&show_icons=true&theme=radical&count_private=true)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhraagarwal&theme=radical)](https://github.com/shubhraagarwal/github-readme-stats)
