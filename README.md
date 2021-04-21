@@ -5,7 +5,7 @@ My name's Shubhra Agarwal, currently a second year student pursuing B.Tech from 
 - 🌱 I’m currently learning - Redux and Typescript
 - 👯 I’m looking to collaborate on - Web or app development projects/ Open source projects
 - 💬 Ask me about - Javascript, Python, C++
-- 😄 Pronouns: He/Him, She/her or They/Them
+- 😄 Pronouns: He/Him, They/Them
 - 📫 How to reach me: <a href= "https://www.linkedin.com/in/agarwalshubhra/">LinkedIn</a>
 
 
