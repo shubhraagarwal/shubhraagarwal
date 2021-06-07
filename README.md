@@ -9,18 +9,18 @@ My name's Shubhra Agarwal, currently a second year student pursuing B.Tech from 
 - 👯 I’m looking to collaborate on - Web or app development or Open source projects
 - 💬 Ask me about - MERN, TypeScript, Python, C++
 - 😄 Pronouns: He/Him, They/Them
-- 📫 Let's Connect:
+- 📫 Let's Connect: <br>
   <a href="https://github.com/shubhraagarwal" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="https://twitter.com/mickey_codes" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/agarwalshubhra" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="https://instagram.com/mickey.codes" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink alt=instagram style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink" alt=instagram style="margin-bottom: 5px;" />
   </a>
 
 <br/>
