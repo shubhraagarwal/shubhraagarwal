@@ -24,6 +24,7 @@ My name's Shubhra Agarwal, currently a second year student pursuing B.Tech from 
   </a>
 
 <br/>
+<hr>
 
 ## Languages/Systems/Tools
 
@@ -56,7 +57,7 @@ My name's Shubhra Agarwal, currently a second year student pursuing B.Tech from 
 <br/>
 
 <hr>
-![](https://activity-graph.herokuapp.com/graph?username=shubhraagarwal&theme=github)
+![]("https://activity-graph.herokuapp.com/graph?username=shubhraagarwal&theme=github")
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhraagarwal&theme=dark" /></br>
 ![Shubhra's github stats](https://github-readme-stats.vercel.app/api?username=shubhraagarwal&show_icons=true&theme=dark&count_private=true)<br>
