@@ -8,7 +8,7 @@ My name's Shubhra Agarwal, currently a second year student pursuing B.Tech from 
 - 🌱 I’m currently learning - Typescript, Ionic and Machine Learning
 - 👯 I’m looking to collaborate on - Web or app development or Open source projects
 - 💬 Ask me about - MERN, TypeScript, Python, C++
-- 😄 Pronouns: He/Him, They/Them
+- 😄 Pronouns: He/They
 - 📫 Let's Connect: <br>
   <a href="https://github.com/shubhraagarwal" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
