@@ -6,7 +6,7 @@
 My name's Shubhra Agarwal, currently a second year student pursuing B.Tech from SRM Institute of Science and Technology in the field of Computer Science. Currently, I am a MERN stack web and app developer enhancing my skills using Redux and Typescript. </br>
 
 - 🌱 I’m currently learning - Typescript, Ionic and Machine Learning
-- 👯 I’m looking to collaborate on - Web or app development or Open source projects
+- 👯 I’m looking to collaborate on - Development or Open source projects
 - 💬 Ask me about - MERN, TypeScript, Python, C++
 - 😄 Pronouns: He/They
 - 📫 Let's Connect: <br>
