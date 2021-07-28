@@ -58,8 +58,8 @@ My name's Shubhra Agarwal, currently a second year student pursuing B.Tech from 
 
 <hr>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhraagarwal&theme=dark" /></br>
-![Shubhra's github stats](https://github-readme-stats.vercel.app/api?username=shubhraagarwal&show_icons=true&theme=dark&count_private=true)<br>
+<!-- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhraagarwal&theme=dark" /></br> -->
+![Shubhra's github stats](https://github-readme-stats.vercel.app/api?username=shubhraagarwal&show_icons=true&theme=dark&count_private=true)
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=shubhraagarwal&theme=dark&hide_langs_below=4&layout=compact'/>
 <br>
 
