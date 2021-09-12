@@ -3,7 +3,7 @@
 <hr>
 
 <img align="right" alt="GIF" height="200px" src="./bitmoji.png" />
-My name's Shubhra Agarwal, currently a second year student pursuing B.Tech from SRM Institute of Science and Technology in the field of Computer Science. Currently, I am a MERN stack web and app developer enhancing my skills using Machine Learning. </br>
+My name's Shubhra Agarwal, currently a third year student pursuing B.Tech from SRM Institute of Science and Technology in the field of Computer Science. Currently, I am a MERN stack web and app developer enhancing my skills using Machine Learning. </br>
 
 - 🌱 I’m currently learning - Machine Learning
 - 👯 I’m looking to collaborate on - Development or Open source projects
