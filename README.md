@@ -22,6 +22,7 @@ My name's Shubhra Agarwal, currently a second year student pursuing B.Tech from 
   <a href="https://instagram.com/mickey.codes" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink" alt=instagram style="margin-bottom: 5px;" />
   </a>
+- Check out my newsletter <a href="https://getrevue.co/profile/shubhracodes">here </a>  
 
 <br/>
 <hr>
@@ -33,7 +34,6 @@ My name's Shubhra Agarwal, currently a second year student pursuing B.Tech from 
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
- <img style="margin: 10px" src="https://camo.githubusercontent.com/c241d33361366f3604367d7762ca67275cb986918ad4bcfac106b283444f0114/68747470733a2f2f7777772e6d61726b7573616e746f6e776f6c662e636f6d2f6d656469612f70616765732f626c6f672f7461696c77696e642d6373732f3236353239383438372d313539363637353034312f7461696c77696e642d6373732d6c6f676f2e737667" alt="Bootstrap" height="25" />
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
