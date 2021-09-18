@@ -7,7 +7,7 @@ My name's Shubhra Agarwal, currently a third year student pursuing B.Tech from S
 
 - 🌱 I’m currently learning - Machine Learning
 - 👯 I’m looking to collaborate on - Development or Open source projects
-- 💬 Ask me about - MERN, TypeScript, Python, C++
+- 💬 Ask me about - MERN, TypeScript, Python, C++, Java, React Native, Machine Learning
 - 😄 Pronouns: He/They
 - 📫 Let's Connect: <br>
   <a href="https://github.com/shubhraagarwal" target="_blank">
