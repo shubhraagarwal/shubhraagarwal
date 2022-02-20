@@ -3,23 +3,23 @@
 <hr>
 
 <img align="right" alt="GIF" height="200px" src="./bitmoji.png" />
-My name's Shubhra Agarwal, currently a third year student pursuing B.Tech from SRM Institute of Science and Technology in the field of Computer Science. Currently, I am a MERN stack web and app developer enhancing my skills using Machine Learning. </br>
+My name's Shubhra Agarwal, currently a third year student pursuing B.Tech from SRM Institute of Science and Technology in the field of Computer Science. Currently, I am a MERN stack web and app developer enhancing my skills using Rust. </br>
 
-- 🌱 I’m currently learning - Solidity
+- 🌱 I’m currently learning - Rust and Solana
 - 👯 I’m looking to collaborate on - Development or Open source projects
-- 💬 Ask me about - MERN, TypeScript, Python, C++, Java, React Native, Flask
+- 💬 Ask me about - MERN, TypeScript, Python, C++, Java, React Native, Flask, Rust, Solana, Polygon
 - 😄 Pronouns: He/They
 - 📫 Let's Connect: <br>
   <a href="https://github.com/shubhraagarwal" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://twitter.com/mickey_codes" target="_blank">
+  <a href="https://twitter.com/shubhracodes" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/agarwalshubhra" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="https://instagram.com/mickey.codes" target="_blank">
+  <a href="https://instagram.com/shubhracodes" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink" alt=instagram style="margin-bottom: 5px;" />
   </a>
 - Check out my newsletter <a href="https://getrevue.co/profile/shubhracodes">here </a>  
