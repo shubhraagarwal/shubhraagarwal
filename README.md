@@ -3,11 +3,11 @@
 <hr>
 
 <img align="right" alt="GIF" height="200px" src="./bitmoji.png" />
-My name's Shubhra Agarwal, currently a third year student pursuing B.Tech from SRM Institute of Science and Technology in the field of Computer Science. Currently, I am a MERN stack web and app developer enhancing my skills using Rust. </br>
+My name's Shubhra Agarwal, currently a final year student pursuing B.Tech from SRM Institute of Science and Technology in the field of Computer Science. I'm a MERN stack web and app developer with more than 2.5 years of industrial experience. </br>
 
-- 🌱 I’m currently learning - Rust and Solana
+- 🌱 I’m currently learning - Maths, Backend and Scalability
 - 👯 I’m looking to collaborate on - Development or Open source projects
-- 💬 Ask me about - MERN, TypeScript, Python, C++, Java, React Native, Flask, Rust, Solana, Polygon
+- 💬 Ask me about - MERN, TypeScript, Python, C++, Java, React Native, Flask, Rust
 - 😄 Pronouns: He/They
 - 📫 Let's Connect: <br>
   <a href="https://github.com/shubhraagarwal" target="_blank">
