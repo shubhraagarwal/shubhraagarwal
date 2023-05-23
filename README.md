@@ -3,11 +3,12 @@
 <hr>
 
 <img align="right" alt="GIF" height="200px" src="./bitmoji.png" />
-My name's Shubhra Agarwal, currently a final year student pursuing B.Tech from SRM Institute of Science and Technology in the field of Computer Science. I'm a MERN stack web and app developer with more than 2.5 years of industrial experience. </br>
+Crafting beautiful websites and mobile apps with a creative touch. Expertise in full stack development and UI/UX, turning ideas into intuitive and user-friendly experiences.
+</br>
 
-- 🌱 I’m currently learning - Maths, Backend and Scalability
+- 🌱 I’m currently learning - Rust and WASM
 - 👯 I’m looking to collaborate on - Development or Open source projects
-- 💬 Ask me about - MERN, TypeScript, Python, C++, Java, React Native, Flask, Rust
+- 💬 Ask me about - MERN, TypeScript, Python, C++, React Native, Flask
 - 😄 Pronouns: He/They
 - 📫 Let's Connect: <br>
   <a href="https://github.com/shubhraagarwal" target="_blank">
@@ -44,11 +45,8 @@ My name's Shubhra Agarwal, currently a final year student pursuing B.Tech from S
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
  <img style="margin: 10px" src="https://camo.githubusercontent.com/c457309037aabdce151cc0e197d6db98234a31636ef41f2cc1c339832fe20de3/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f6c6f676f732f6e6578746a732d6c6f676f2e706e67" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" />
 
  <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="25" height="25" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width:100%;">
 
